@@ -1,0 +1,23 @@
+{
+  "name": "@futuretense/curvebench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@futuretense/ed25519-dalek": "0.0.3",
+    "console.table": "^0.10.0",
+    "ed25519": "0.0.4",
+    "elliptic": "^6.4.1",
+    "sodium-native": "^2.3.0",
+    "tweetnacl": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.12.0",
+    "typescript": "^3.3.4000"
+  }
+}
